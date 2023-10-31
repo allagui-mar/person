@@ -1,0 +1,27 @@
+.app{
+display: flex;
+justify-content: center;
+}
+.card {
+  text-align: center;
+  margin-top: 20px;
+  
+background-color: aqua;
+border-radius: 5px; 
+margin:5px;
+  
+}
+.titre{
+  margin-left: 90px;
+}
+
+
+.centred{
+  display: inline;
+  margin-top: 20px;
+  height:10rem;
+  text-align: center;
+}
+
+
+
